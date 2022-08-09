@@ -1,0 +1,165 @@
+/* .box{
+    width: 600px;
+    height: 400px;
+    background-color: aqua;
+    border: 1px solid black;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.box .item1{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border: 1px solid black;
+    position: relative;
+    top: 5px;
+    right: 20px;
+}
+
+.box .item2{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border: 1px solid black;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+.box .item3{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border: 1px solid black;
+    position: relative;
+    bottom: 0;
+    right: 0;
+}
+
+
+.img{
+    position: relative;
+    width: 700px;
+    height: 500px;
+}
+
+.img h2{
+    position: absolute;
+    bottom: 50px;
+    left: 50%;
+    color: black;
+} */
+
+
+
+/* task1 */
+
+/* .main{
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    position: relative;
+    top:250px;
+    left:250px;
+    border: 1px solid black;
+}
+.main .item1{
+    width: 50px;
+    height: 50px;
+   background-color: brown;
+
+}
+.main .item2{
+    width: 50px;
+    height: 50px;
+   background-color: rgb(42, 42, 165);
+   position: absolute;
+   right: 0;
+   top: 0;
+}
+.main .item3{
+    width: 50px;
+    height: 50px;
+   background-color: rgb(71, 165, 42);
+   position: absolute;
+  top: 125px;
+  left: 125px;
+}
+.main .item4{
+    width: 50px;
+    height: 50px;
+   background-color: rgb(42, 138, 165);
+   position: absolute;
+   left: 0;
+   bottom: 0;
+}
+.main .item5{
+    width: 50px;
+    height: 50px;
+   background-color: rgb(12, 64, 33);
+   position: absolute;
+   bottom: 0;
+   right: 0;
+} */
+
+
+
+
+
+/* task2 */
+body{
+    background-color: rgb(10, 66, 66);
+}
+#task{
+    position: relative;
+    width: 100%;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.text{
+    position: relative;
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    width: 400px;
+    height: 400px;
+   
+}
+.text h3{
+    color: gray;
+}
+.text span{
+    display: block;
+}
+.text .btn{
+    
+    width: 100px;
+    height: 40px;
+    background-color: aqua;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    
+}
+
+ .img img{
+    border-radius: 50%;
+    width: 100px ;
+    height: 100px;
+    position: absolute;
+    left: -40px;
+    top: -40px;
+}
+
+
+.border{
+    width: 10px;
+    border: 30px solid;
+    border-top-color: green;
+}
